@@ -5,4 +5,5 @@ Náplňou projektu bolo overovanie hypotézy o hranovom farbení kubických graf
 Všetky funkcie a algoritmy používané na testovanie tejto hypotézy sú v knižnici snark.
 V jednotlivých priečinkoch sú potom programy ktoré testovali algoritmy na konkrétnych sadách grafov a
 aj súbory s konkrétnymi grafmi.
-Akurát v súbore big graphs chýbajú testované súbory, lebo boli príliš veľké. Dajú sa získať na stránke houseofgraphs.
+Akurát v súbore big graphs chýbajú testované súbory, lebo boli príliš veľké. 
+Dajú sa získať na stránke houseofgraphs(32-36 vrcholové grafy).
